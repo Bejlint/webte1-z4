@@ -1,0 +1,243 @@
+{
+  "photos": [
+    {
+      "filename": "metropolis.png",
+      "title": "Besa-Dedina",
+      "description": "nieco",
+      "dateTimeTaken": "2022-11-17T18:32:48",
+      "gpsCoordinates": {
+        "latitude": 48.14280719148582,
+        "longitude": 18.407859501336038
+      },
+      "filepath": "photos/metropolis.png"
+    },
+    {
+      "filename": "forzaferrari.png",
+      "title": "F1-Grand Prix of Hungary",
+      "description": "nieco",
+      "dateTimeTaken": "2022-7-23T15:15:21",
+      "gpsCoordinates": {
+        "latitude": 47.5764721989789,
+        "longitude": 19.250370333991487
+      },
+      "filepath": "photos/forzaferrari.png"
+
+    },
+    {
+      "filename": "alonso.png",
+      "title": "Aston Martin F1 Team",
+      "description": "nieco",
+      "dateTimeTaken": "2022-7-22T19:48:32",
+      "gpsCoordinates": {
+        "latitude": 47.51100721094925,
+        "longitude": 19.05679516266802
+      },
+      "filepath": "photos/alonso.png"
+
+    },
+    {
+      "filename": "mochovce.png",
+      "title": "Jadrova elektraren-Mochovce",
+      "description": "nieco",
+      "dateTimeTaken": "2023-9-10T12:32:48",
+      "gpsCoordinates": {
+        "latitude": 48.25886196816538,
+        "longitude": 18.43727141473317
+      },
+      "filepath": "photos/mochovce.png"
+
+    },
+    {
+      "filename": "romainvicta.png",
+      "title": "CZ-Rimania",
+      "description": "nieco",
+      "dateTimeTaken": "2022-7-22T14:52:11",
+      "gpsCoordinates": {
+        "latitude": 48.906454247709924,
+        "longitude":  16.568240478212644
+      },
+      "filepath": "photos/romainvicta.png"
+
+    },
+    {
+      "filename": "holloko.png",
+      "title": "Dedina Hollókő",
+      "description": "nieco",
+      "dateTimeTaken": "2024-08-28T16:45:49",
+      "gpsCoordinates": {
+        "latitude": 47.9986948544811,
+        "longitude": 19.58889356889814
+      },
+      "filepath": "photos/holloko.png"
+
+    },
+    {
+      "filename": "cina.png",
+      "title": "Cinuli",
+      "description": "nieco",
+      "dateTimeTaken": "2023-05-02T16:05:45",
+      "gpsCoordinates": {
+        "latitude": 48.15918307224766,
+        "longitude":  11.063644725335934
+      },
+      "filepath": "photos/cina.png"
+
+    },
+    {
+      "filename": "barackovo.png",
+      "title": "Bardoňovo-kasťiel",
+      "description": "nieco",
+      "dateTimeTaken": "2024-11-17T16:49:54",
+      "gpsCoordinates": {
+        "latitude": 48.111269212326135,
+        "longitude": 18.425942417217602
+      },
+      "filepath": "photos/barackovo.png"
+
+    },
+    {
+      "filename": "dregely.png",
+      "title": "Hrad Drégelypalánk",
+      "description": "nieco",
+      "dateTimeTaken": "2024-08-04T12:56:04",
+      "gpsCoordinates": {
+        "latitude": 48.01671995412767,
+        "longitude": 19.036094190096076
+      },
+      "filepath": "photos/dregely.png"
+
+    },
+    {
+      "filename": "dregely2.png",
+      "title": "Hrad Drégelypalánk",
+      "description": "hrad",
+      "dateTimeTaken": "2024-08-04T12:56:05",
+      "gpsCoordinates": {
+        "latitude": 48.01671995412767,
+        "longitude": 19.036094190096076
+      },
+      "filepath": "photos/dregely2.png"
+
+    },
+    {
+      "filename": "dunakanyar.png",
+      "title": "Dunaknyar",
+      "description": "nieco",
+      "dateTimeTaken": "2022-08-10T11:54:02",
+      "gpsCoordinates": {
+        "latitude": 47.81294112076223,
+        "longitude": 18.991600123388405
+      },
+      "filepath": "photos/dunakanyar.png"
+
+    },
+    {
+      "filename": "eiffel.png",
+      "title": "Besa-Dedina",
+      "description": "nieco",
+      "dateTimeTaken": "2024-10-02T19:12:38",
+      "gpsCoordinates": {
+        "latitude": 48.85850005216312,
+        "longitude": 2.294098326710039
+      },
+      "filepath": "photos/eiffel.png"
+
+    },
+    {
+      "filename": "internat.png",
+      "title": "Internat-Blok:C",
+      "description": "nieco",
+      "dateTimeTaken": "2024-10-02T19:12:38",
+      "gpsCoordinates": {
+        "latitude": 48.15918307224766,
+        "longitude":  17.063644725335934
+      },
+      "filepath": "photos/internat.png"
+
+    },
+    {
+      "filename": "Milan.png",
+      "title": "Milánsky dóm",
+      "description": "nieco",
+      "dateTimeTaken": "2024-10-02T19:12:38",
+      "gpsCoordinates": {
+        "latitude": 45.464134762203635,
+        "longitude": 9.19043543672564
+      },
+      "filepath": "photos/Milan.png"
+
+    },
+    {
+      "filename": "louvre.png",
+      "title": "Louvre",
+      "description": "nieco",
+      "dateTimeTaken": "2024-10-02T19:12:38",
+      "gpsCoordinates": {
+        "latitude": 48.860508759252895,
+        "longitude": 2.3375665390420632
+      },
+      "filepath": "photos/louvre.png"
+
+    },
+    {
+      "filename": "ny.png",
+      "title": "NY",
+      "description": "NY",
+      "dateTimeTaken": "2024-10-02T19:22:38",
+      "gpsCoordinates": {
+        "latitude": 48.860508759252895,
+        "longitude": 2.3375665390420632
+      },
+      "filepath": "photos/ny.png"
+
+    },
+    {
+      "filename": "tata.png",
+      "title": "Jazero Tata",
+      "description": "nieco",
+      "dateTimeTaken": "2024-09-01T11:20:18",
+      "gpsCoordinates": {
+        "latitude": 47.6482098178503,
+        "longitude": 18.319797529268403
+      },
+      "filepath": "photos/tata.png"
+
+    },
+    {
+      "filename": "forest.png",
+      "title": "Les",
+      "description": "Les",
+      "dateTimeTaken": "2024-09-01T11:20:28",
+      "gpsCoordinates": {
+        "latitude": 47.6482098178503,
+        "longitude": 18.319797529268403
+      },
+      "filepath": "photos/forest.png"
+
+    },{
+      "filename": "forest2.png",
+      "title": "Les",
+      "description": "Les",
+      "dateTimeTaken": "2024-09-01T11:20:30",
+      "gpsCoordinates": {
+        "latitude": 47.6482098178503,
+        "longitude": 18.319797529268403
+      },
+      "filepath": "photos/forest2.png"
+
+    },
+    {
+      "filename": "forest3.png",
+      "title": "Les",
+      "description": "Les",
+      "dateTimeTaken": "2024-09-01T11:20:48",
+      "gpsCoordinates": {
+        "latitude": 47.6482098178503,
+        "longitude": 18.319797529268403
+      },
+      "filepath": "photos/forest3.png"
+
+    }
+
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@fancyapps/ui": "^5.0.36",
+    "leaflet-routing-machine": "^3.2.12",
+    "lg-autoplay": "^1.2.1",
+    "lightgallery": "^2.8.1"
+  }
+}
